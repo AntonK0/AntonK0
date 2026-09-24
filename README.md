@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Anton Ko 👋
 
-<!--
-**AntonK0/AntonK0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science & Engineering student at UC Irvine focusing on **robotics & autonomous systems**, **hardware acceleration**, and **full-stack/embedded systems**.
 
-Here are some ideas to get you started:
+---
+### 🚩 Featured Projects
+- [**J.I.T. AR Tutor**](https://github.com/AntonK0/lahacks26) 🏆 Best Use of MongoDB Atlas at LA Hacks 2026
+- [**SnapRec**](https://github.com/AntonK0/webjam2025) 🏆 1st Place at WebJam 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/anton-m-ko](https://linkedin.com/in/anton-m-ko)
+- **Emails:** `antonk1@uci.edu`, `anton.ko0408@gmail.com`
